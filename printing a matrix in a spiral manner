@@ -1,0 +1,53 @@
+import java.util.Scanner;
+import java.util.ArrayList;
+
+class Main {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int m = sc.nextInt();
+        int arr[][] = new int[n][m];
+        ArrayList<Integer> ans = new ArrayList<>();
+        //taking input
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                arr[i][j] = sc.nextInt();
+            }
+        }
+
+        int top = 0, bottom = n - 1;
+        int left = 0, right = m - 1;
+
+        while (top <= bottom && left <= right) {
+            //traversing from the left to right
+            for (int i = left; i <= right; i++) {
+                ans.add(arr[top][i]);
+            }
+            top++;
+            //traversing from the top to bottom
+            for (int i = top; i <= bottom; i++) {
+                ans.add(arr[i][right]);
+            }
+            right--;
+
+            //after checking traversing from right to left
+            if (top <= bottom) {
+                for (int i = right; i >= left; i--) {
+                    ans.add(arr[bottom][i]);
+                }
+                bottom--;
+            }
+
+          //after checking traversing from bottom to top
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    ans.add(arr[i][left]);
+                }
+                left++;
+            }
+        }
+
+     
+        System.out.println( ans);
+    }
+}
