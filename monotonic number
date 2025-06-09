@@ -1,0 +1,20 @@
+class Solution {
+    public boolean isMonotonic(int[] nums)
+     {
+        boolean n1=true;
+        boolean n2=true;
+            for(int i=1;i<nums.length;i++)
+            {
+            if(nums[i]<nums[i-1])
+            {
+                n1=false;
+            }
+            if(nums[i]>nums[i-1])
+            {
+                n2=false;
+            }
+            
+                 }     return n1|| n2;
+               
+    }
+}
