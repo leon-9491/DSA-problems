@@ -1,0 +1,19 @@
+import java.util.Arrays;
+class Solution {
+    public int missingNumber(int[] nums) {
+        Arrays.sort(nums);  
+        int i = 0;
+        int k = 0;           
+
+        while (i < nums.length) {
+            if (nums[i] == k) {
+                k++;
+                i++;
+            } else {
+                return k;   
+            }
+        }
+
+        return k; 
+    }
+}
