@@ -20,6 +20,7 @@ This repository is for DSA programs from Leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/leon-9491/DSA-problems/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/leon-9491/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/leon-9491/DSA-problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,8 @@ This repository is for DSA programs from Leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/leon-9491/DSA-problems/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/leon-9491/DSA-problems/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
