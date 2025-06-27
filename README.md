@@ -11,6 +11,7 @@ This repository is for DSA programs from Leetcode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/leon-9491/DSA-problems/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/leon-9491/DSA-problems/tree/master/0278-first-bad-version) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,8 @@ This repository is for DSA programs from Leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/leon-9491/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/leon-9491/DSA-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
