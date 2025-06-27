@@ -34,13 +34,19 @@ This repository is for DSA programs from Leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/leon-9491/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/leon-9491/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/leon-9491/DSA-problems/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/leon-9491/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/leon-9491/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/leon-9491/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/leon-9491/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
