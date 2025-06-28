@@ -1,19 +1,13 @@
 class Solution {
-    public double power(double x, Long N)
+    public double power(double x, Long n)
     {
-        if(N==0)
+        if(n==0)return 1;
+        if(n==1)return x;
+        if(n%2==0)
         {
-            return 1;
+            return power(x*x,n/2);
         }
-        if(N==1)
-        {
-            return x;
-        }
-        if(N%2==0)
-        {
-            return power(x*x,N/2);
-        }
-        return x*power(x,N-1);
+        return x*power(x,n-1);
     }
     public double myPow(double x, int n)
      {
