@@ -5,6 +5,7 @@ This repository is for DSA programs from Leetcode
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/leon-9491/DSA-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/leon-9491/DSA-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/leon-9491/DSA-problems/tree/master/0070-climbing-stairs) |
 ## Binary Search
@@ -54,4 +55,8 @@ This repository is for DSA programs from Leetcode
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/leon-9491/DSA-problems/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/leon-9491/DSA-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
