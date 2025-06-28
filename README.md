@@ -18,6 +18,7 @@ This repository is for DSA programs from Leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/leon-9491/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/leon-9491/DSA-problems/tree/master/0344-reverse-string) |
+| [0941-sort-array-by-parity](https://github.com/leon-9491/DSA-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/leon-9491/DSA-problems/tree/master/0958-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -44,6 +45,7 @@ This repository is for DSA programs from Leetcode
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/leon-9491/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/leon-9491/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0941-sort-array-by-parity](https://github.com/leon-9491/DSA-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/leon-9491/DSA-problems/tree/master/0958-sort-array-by-parity-ii) |
 ## Matrix
 |  |
@@ -64,5 +66,6 @@ This repository is for DSA programs from Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/leon-9491/DSA-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/leon-9491/DSA-problems/tree/master/0958-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
