@@ -43,6 +43,7 @@ This repository is for DSA programs from Leetcode
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/leon-9491/DSA-problems/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/leon-9491/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/leon-9491/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/leon-9491/DSA-problems/tree/master/0090-subsets-ii) |
@@ -73,6 +74,7 @@ This repository is for DSA programs from Leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/leon-9491/DSA-problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/leon-9491/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/leon-9491/DSA-problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
