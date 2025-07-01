@@ -49,6 +49,7 @@ This repository is for DSA programs from Leetcode
 | [0078-subsets](https://github.com/leon-9491/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/leon-9491/DSA-problems/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/leon-9491/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0216-combination-sum-iii](https://github.com/leon-9491/DSA-problems/tree/master/0216-combination-sum-iii) |
 | [0941-sort-array-by-parity](https://github.com/leon-9491/DSA-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/leon-9491/DSA-problems/tree/master/0958-sort-array-by-parity-ii) |
 ## Matrix
@@ -79,6 +80,7 @@ This repository is for DSA programs from Leetcode
 | [0040-combination-sum-ii](https://github.com/leon-9491/DSA-problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/leon-9491/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/leon-9491/DSA-problems/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/leon-9491/DSA-problems/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
