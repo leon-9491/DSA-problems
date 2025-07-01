@@ -11,6 +11,7 @@ This repository is for DSA programs from Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/leon-9491/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/leon-9491/DSA-problems/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/leon-9491/DSA-problems/tree/master/0278-first-bad-version) |
 ## Two Pointers
@@ -46,6 +47,7 @@ This repository is for DSA programs from Leetcode
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/leon-9491/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/leon-9491/DSA-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/leon-9491/DSA-problems/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/leon-9491/DSA-problems/tree/master/0073-set-matrix-zeroes) |
@@ -91,4 +93,8 @@ This repository is for DSA programs from Leetcode
 | ------- |
 | [0078-subsets](https://github.com/leon-9491/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/leon-9491/DSA-problems/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/leon-9491/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
