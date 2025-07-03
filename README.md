@@ -58,6 +58,7 @@ This repository is for DSA programs from Leetcode
 | [0377-combination-sum-iv](https://github.com/leon-9491/DSA-problems/tree/master/0377-combination-sum-iv) |
 | [0941-sort-array-by-parity](https://github.com/leon-9491/DSA-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/leon-9491/DSA-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/leon-9491/DSA-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Matrix
 |  |
 | ------- |
