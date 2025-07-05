@@ -1,8 +1,14 @@
 class Solution {
     public double power(double x, Long n)
     {
-        if(n==0)return 1;
-        if(n==1)return x;
+        if(n==0)
+        {
+            return 1;
+        }
+        if(n==1)
+        {
+            return x;
+        }
         if(n%2==0)
         {
             return power(x*x,n/2);
