@@ -99,4 +99,8 @@ This repository is for DSA programs from Leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/leon-9491/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/leon-9491/DSA-problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
