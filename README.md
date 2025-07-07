@@ -19,6 +19,7 @@ This repository is for DSA programs from Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/leon-9491/DSA-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/leon-9491/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/leon-9491/DSA-problems/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/leon-9491/DSA-problems/tree/master/0941-sort-array-by-parity) |
@@ -104,5 +105,6 @@ This repository is for DSA programs from Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/leon-9491/DSA-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/leon-9491/DSA-problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
