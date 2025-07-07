@@ -7,6 +7,7 @@ This repository is for DSA programs from Leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/leon-9491/DSA-problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/leon-9491/DSA-problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/leon-9491/DSA-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/leon-9491/DSA-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/leon-9491/DSA-problems/tree/master/0070-climbing-stairs) |
 ## Binary Search
@@ -51,6 +52,7 @@ This repository is for DSA programs from Leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/leon-9491/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/leon-9491/DSA-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/leon-9491/DSA-problems/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/leon-9491/DSA-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/leon-9491/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/leon-9491/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/leon-9491/DSA-problems/tree/master/0090-subsets-ii) |
