@@ -1,0 +1,45 @@
+class solution
+{
+public Listnode Sort(Node Head)
+{
+    ListNode temp=head;
+    int cn0=0,cn1=0,cn2=0;
+  while(temp!=null)
+  {
+    if(temp.val==0)
+    {
+    cn0++;
+    }
+    else if(temp.val==0)
+    {
+    cn1++;
+    }
+    else
+    {
+    cn2++;
+    temp=temp.next;
+    }
+    temp=head;
+  while(temp!=null)
+{
+  if(cn0>0)
+  {
+  temp.val=0;
+  cn0--;
+  }
+  else if(cn1>0)
+  {
+  temp.val=1;
+  cn1--;
+  }
+  else
+  {
+  temp.val=2;
+  cn2--;
+  }
+  temp=temp.next;
+  }
+return head;
+}
+}
+
